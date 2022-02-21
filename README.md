@@ -1,7 +1,17 @@
 # StockWatch
+An Android stock tracking application.
 
-Stock Watch is an Android application, which lets users search for stocks and track them.
+## Description
+Users can search by stock ticker or company name to add stocks to their list and keep track of stock pricing. Stock data is gathered from IEX Trading.
 
+## Technology
+* Android (AsyncTask and Recycler View)
+* JSON parsing
+
+## Build
+Use Android Studio to build.
+
+## Usage
 To get started, tap the + icon at the top right of the screen:
 
 ![Screen Shot 2020-09-29 at 11 30 19 AM](https://user-images.githubusercontent.com/62715889/94586921-798ab880-0247-11eb-9b6d-df399a882d27.png)  
@@ -19,3 +29,6 @@ As many stocks can be added as desired. Pull the screen at any time to refresh t
 In order to delete a stock, tap and hold the stock you wish to delete and confirm deletion:
 
 ![Screen Shot 2020-09-29 at 11 29 48 AM](https://user-images.githubusercontent.com/62715889/94586952-85767a80-0247-11eb-95b6-8cf2945fbf91.png)
+
+## Author
+Created by Martijn Koning.
